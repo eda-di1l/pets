@@ -1,2 +1,2 @@
 # pets
-Pet projects on data science
+Some pet projects on machine learning (kaggle etc.)
